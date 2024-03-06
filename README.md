@@ -1,14 +1,5 @@
 <h2 align="center">Hi 👋! My my name is Anton and I'm a Backend Developer</h2>
 
-###
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimaPolonez&show_icons=true&theme=transparent&count_private=true&hide=issues,contrib)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimaPolonez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-###
-
 <img align="right" height="175" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 
 ###
