@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My my name is Anton and I'm an experienced Full-Stack Developer</h2>
+<h2 align="center">Hello 👋! My my name is Anton and I'm an experienced Full-Stack Developer</h2>
 
 <img align="right" height="175" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 
